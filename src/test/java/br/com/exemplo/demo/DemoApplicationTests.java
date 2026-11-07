@@ -10,6 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 @SpringBootTest
 class DemoApplicationTests {
 
+    // Alteracao
     @Autowired
     private ProdutoRepository repository;
 
